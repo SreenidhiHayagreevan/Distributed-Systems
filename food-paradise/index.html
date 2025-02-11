@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Paradise</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Background Video -->
+    <div class="video-container">
+        <video autoplay loop muted>
+            <source src="food.mp4" type="video/mp4">
+            
+        </video>
+    </div>
+
+    <!-- Centered Page Content -->
+    <div class="content">
+        <h1><span class="highlight">🎉 Food Paradise 🎉</span></h1>
+        
+        <!-- Navigation Menu -->
+        <nav class="menu-links">
+            <a href="#" data-page="meat" class="menu-btn">🍖Meat</a>
+            <a href="#" data-page="seafood" class="menu-btn">🍱Seafood</a>
+            <a href="#" data-page="vegetable" class="menu-btn">🥙Vegetable</a>
+            <a href="#" data-page="bread_rice" class="menu-btn">🍛Bread & Rice</a>
+            <a href="#" data-page="soup" class="menu-btn">🍜Soup</a>
+            <a href="#" data-page="drink" class="menu-btn">🫖Drinks</a>
+            <a href="#" data-page="dessert" class="menu-btn">🎂Desserts</a>
+        </nav>
+
+        <!-- Dynamic Content Container -->
+        <div id="content">
+            <p>Select a category to see the content.</p>
+        </div>
+
+        <!-- Page Views Counter -->
+        <p></p>
+        <p>Page Views: <span id="page-views">0</span></p>
+    </div>
+
+    <!-- Linking JavaScript file -->
+    <script src="script.js"></script>
+
+</body>
+</html>
