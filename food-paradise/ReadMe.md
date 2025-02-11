@@ -13,13 +13,12 @@
 
 ## Table of Contents
 1. [Project Structure](#project-structure)
-2. [Features](#features)
-3. [How to Run](#how-to-run)
-4. [Key Functionalities](#key-functionalities)
-5. [Screenshot](#screenshot)
-6. [Technologies Used](#technologies-used)
-7. [Future Enhancements](#future-enhancements)
-8. [License](#license)
+2. [How to Run](#how-to-run)
+3. [Key Functionalities](#key-functionalities)
+4. [Screenshot](#screenshot)
+5. [Technologies Used](#technologies-used)
+6. [Future Enhancements](#future-enhancements)
+7. [License](#license)
 
 ## Project Structure
 
@@ -112,8 +111,7 @@ To run the project locally, follow these steps:
 ## Screenshot
 
 Here is a screenshot of the main page of the **Food Paradise SPA**:
-
-![Food Paradise Screenshot](images/food-paradise-screenshot.png)
+![Food Paradise Screenshot](https://github.com/user-attachments/assets/c139970c-5aa7-4b10-ae76-25fb17472b82)
 
 ## Technologies Used
 
