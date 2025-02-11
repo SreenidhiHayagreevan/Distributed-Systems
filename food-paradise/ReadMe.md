@@ -28,7 +28,8 @@
 
 Here is a screenshot of the main page of the **Food Paradise SPA**:
 
-![Food Paradise Screenshot](images/food-paradise-screenshot.png)
+![Food Paradise gif]( Screen Recording 2025-02-10 at 11.15.04 PM)
+
 
 ## Future Improvements
 
