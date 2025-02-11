@@ -38,3 +38,50 @@ Here is a screenshot of the main page of the **Food Paradise SPA**:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Project Structure
+food-paradise/
+│
+├── index.html
+├── style.css
+├── script.js
+├── food.mp4
+│
+├── images/
+│   ├── Chicken.jpg
+│   ├── Beef.jpg
+│   ├── Pork.jpg
+│   ├── Lamb.jpg
+│   ├── Turkey.jpg
+│   ├── Shrimp.jpg
+│   ├── Salmon.jpg
+│   ├── Lobster.jpg
+│   ├── Crab.jpg
+│   ├── Calamari.jpg
+│   ├── GrilledVeg.jpg
+│   ├── StirFry.jpg
+│   ├── CaesarSalad.jpg
+│   ├── RoastedVeg.jpg
+│   ├── VegLasagna.jpg
+│   ├── GarlicBread.jpg
+│   ├── FriedRice.jpg
+│   ├── Naan.jpg
+│   ├── WildRice.jpg
+│   ├── Breadsticks.jpg
+│   ├── TomatoSoup.jpg
+│   ├── ChickenSoup.jpg
+│   ├── ClamChowder.jpg
+│   ├── VegSoup.jpg
+│   ├── OnionSoup.jpg
+│   ├── OrangeJuice.jpg
+│   ├── IcedTea.jpg
+│   ├── Lemonade.jpg
+│   ├── Mojito.jpg
+│   ├── SparklingWater.jpg
+│   ├── ChocolateCake.jpg
+│   ├── Cheesecake.jpg
+│   ├── Tiramisu.jpg
+│   ├── ApplePie.jpg
+│   └── IceCream.jpg
+│
+└── README.md (optional)
