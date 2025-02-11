@@ -40,6 +40,7 @@ Here is a screenshot of the main page of the **Food Paradise SPA**:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Project Structure
+```plaintext
 food-paradise/
 │
 ├── index.html
@@ -85,3 +86,4 @@ food-paradise/
 │   └── IceCream.jpg
 │
 └── README.md (optional)
+```
