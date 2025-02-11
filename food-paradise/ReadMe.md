@@ -13,10 +13,9 @@
 
 ## Table of Contents
 1. [Project Structure](#project-structure)
-2. [How to Run](#how-to-run)
-3. [Key Functionalities](#key-functionalities)
-4. [Screenshot](#screenshot)
-5. [Technologies Used](#technologies-used)
+2. [Key Functionalities](#key-functionalities)
+3. [Screenshot](#screenshot)
+4. [Technologies Used](#technologies-used)
 
 ## Project Structure
 
@@ -70,23 +69,6 @@ food-paradise/
 │
 └── README.md (optional)
 ```
-
-
-## How to Run
-
-To run the project locally, follow these steps:
-
-1. **Clone the repository** or download the files.
-2. **Host the project** on any web server, or use a local server such as [http-server](https://www.npmjs.com/package/http-server):
-   - Install `http-server` globally:
-     ```bash
-     npm install -g http-server
-     ```
-   - Run the project in your local server:
-     ```bash
-     http-server .
-     ```
-3. Open your browser and navigate to `http://localhost:8080/index.html` (or the URL provided by your local server).
 
 ## Key Functionalities
 
