@@ -1,44 +1,29 @@
+# Food Paradise - Single Page Application (SPA)
 
-## How to Run the Project
+## Project Overview
 
-1. **Clone the repository** or download the project files.
-2. **Host the project on Apache** or any web server to view the site in a browser.
-   - You can use `http-server` for a local server:
-     ```bash
-     npm install -g http-server
-     http-server .
-     ```
-3. Open `index.html` in your browser to view the Food Paradise SPA in action.
+**Food Paradise** is a dynamic **Single Page Application (SPA)** designed to showcase various food categories, allowing users to explore different food items, drinks, and desserts. The application makes use of modern web technologies such as **HTML**, **CSS**, and **JavaScript** to provide a smooth, interactive, and user-friendly experience. The page dynamically updates content without full page reloads, making use of the **History API** for handling navigation and bookmarking.
 
-## Key Functionalities
+### Features:
+- **SPA Navigation**: Dynamically update the content without page reloads. The URL changes based on the selected category (e.g., `index.html#meat`).
+- **History API**: The browser's back and forward buttons allow users to navigate between the main page and category subpages seamlessly. Bookmarks can be used to directly access specific categories.
+- **Page Hit Counter**: The number of page views is tracked and displayed using **localStorage**.
+- **Mouse Events**: Hover effects and focus/blur events enhance interactivity across menu items.
+- **Progressive Enhancement**: The structure, presentation, and behavior are separated for better maintainability and scalability.
 
-### 1. Single Page Application (SPA)
-   - Clicking on any category (e.g., **Meat**, **Seafood**, **Desserts**) dynamically updates the content without a full page reload.
-   - The URL is updated using the History API, allowing users to bookmark and revisit categories directly (e.g., `index.html#meat`).
-   - The **Back** and **Forward** buttons navigate between the main page and selected subpages.
+## Table of Contents
+1. [Project Structure](#project-structure)
+2. [Features](#features)
+3. [How to Run](#how-to-run)
+4. [Key Functionalities](#key-functionalities)
+5. [Screenshot](#screenshot)
+6. [Technologies Used](#technologies-used)
+7. [Future Enhancements](#future-enhancements)
+8. [License](#license)
 
-### 2. Page Hit Counter
-   - Tracks how many times the page has been visited using **localStorage**. The counter updates each time the page loads.
+## Project Structure
 
-### 3. Mouse Events
-   - Hover over menu items to change their appearance (e.g., highlighting items when hovered).
-   - Focus and blur events are implemented for interactive elements, providing a better user experience.
-
-## Screenshot
-
-Here is a screenshot of the main page of the **Food Paradise SPA**:
-
-![Food Paradise gif]( Screen Recording 2025-02-10 at 11.15.04 PM)
-
-
-## Future Improvements
-
-- **Advanced Analytics**: Integrate analytics to track user interactions and popular categories.
-- **Mobile Optimization**: Further improve responsiveness for mobile devices.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Here is the directory structure for the **Food Paradise** project:
 
 ## Project Structure
 ```plaintext
