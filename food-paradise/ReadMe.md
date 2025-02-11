@@ -17,8 +17,6 @@
 3. [Key Functionalities](#key-functionalities)
 4. [Screenshot](#screenshot)
 5. [Technologies Used](#technologies-used)
-6. [Future Enhancements](#future-enhancements)
-7. [License](#license)
 
 ## Project Structure
 
@@ -121,16 +119,6 @@ Here is a screenshot of the main page of the **Food Paradise SPA**:
 - **localStorage**: For storing the page hit count.
 - **History API**: For handling back and forward navigation and enabling bookmarks.
 
-## Future Enhancements
-
-- **Analytics Integration**: Integrating an analytics tool (like Google Analytics) to track user interactions more comprehensively.
-- **Mobile Optimization**: Further enhance the responsiveness of the website to support a wider variety of mobile devices.
-- **User Authentication**: Add a feature for users to log in and save their favorite food categories.
-- **Search Functionality**: Implement a search feature to allow users to search for specific food items across all categories.
-
-## License
-
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute this project for personal or educational purposes. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
