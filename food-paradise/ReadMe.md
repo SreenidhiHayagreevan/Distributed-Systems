@@ -74,6 +74,7 @@ food-paradise/
 └── README.md (optional)
 ```
 
+
 ## How to Run
 
 To run the project locally, follow these steps:
