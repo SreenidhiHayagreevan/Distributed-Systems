@@ -115,12 +115,12 @@ food-paradise/
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/229d4384-941c-4aab-9587-bc8e79f6fb6c" />
 
 **2. Mobile View with Responsive Navbar**  
-![image](https://github.com/user-attachments/assets/238cfa4e-ae1d-48df-89fd-383cb49a966e)
+![image](https://github.com/user-attachments/assets/238cfa4e-ae1d-48df-89fd-383cb49a966e =500x)
 
 **3. Pagination Example**  
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/a4d057d8-8c33-4ecb-9759-0bde8ecbb857" />
 
-![image](https://github.com/user-attachments/assets/1791226a-4d43-4be0-a97e-8216d66bfcbf)
+![image](https://github.com/user-attachments/assets/1791226a-4d43-4be0-a97e-8216d66bfcbf =500x)
 
 
 
