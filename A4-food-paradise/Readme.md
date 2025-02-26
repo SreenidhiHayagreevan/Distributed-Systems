@@ -10,9 +10,6 @@ This project involves setting up a Node.js web server using the Express framewor
 - [API Endpoints](#api-endpoints)
 - [Search Functionality](#search-functionality)
 - [Testing the API](#testing-the-api)
-- [Screenshots](#screenshots)
-- [License](#license)
-
 ---
 
 ## Installation Instructions
@@ -103,17 +100,7 @@ To test the functionality of the API, use the following URLs in your browser or 
 4. **List spicy dishes**: `http://localhost:8081/search?spicy=True`
 5. **List dishes priced less than $30**: `http://localhost:8081/search?price<30`
 
----
 
-## Screenshots
-
-Please refer to the attached PDF for screenshots showing the output of each API request. You can also find the complete code for the server in this repository.
-
----
-
-## License
-
-This project is licensed under the MIT License.
 
 
 
