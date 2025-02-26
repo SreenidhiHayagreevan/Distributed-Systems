@@ -54,12 +54,12 @@ $ node server.js
 1. **List all categories**:
     - **URL**: `http://localhost:8081`
     - **Method**: `GET`
-    - **Response**: A list of categories such as meat, seafood, etc.
+    - **Response**: A list of categories such as meat, seafood,vegetable.
 
 2. **List all subcategories of a category**:
     - **URL**: `http://localhost:8081/:category` (e.g., `http://localhost:8081/meat`)
     - **Method**: `GET`
-    - **Response**: A list of subcategories under the specified category (e.g., beef, pork, lamb).
+    - **Response**: A list of subcategories under the specified category (e.g., beef, pork).
 
 3. **List all dishes under a subcategory**:
     - **URL**: `http://localhost:8081/:category/:subcategory` (e.g., `http://localhost:8081/meat/beef`)
