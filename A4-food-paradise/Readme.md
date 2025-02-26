@@ -7,7 +7,6 @@ This project involves setting up a Node.js web server using the Express framewor
 ## Table of Contents
 
 - [Installation Instructions](#installation-instructions)
-- [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
 - [Search Functionality](#search-functionality)
 - [Testing the API](#testing-the-api)
@@ -47,25 +46,6 @@ $ npm install
 ```bash
 $ node server.js
 ```
-
----
-
-## Project Structure
-
-The project follows the directory structure below:
-
-```
-/
-  /meat
-    /beef
-    /pork
-    /lamb
-  /seafood
-  ...
-```
-
-- **/meat**: Category containing subcategories like beef, pork, and lamb.
-- **/seafood**: Another category with dishes related to seafood.
 
 ---
 
